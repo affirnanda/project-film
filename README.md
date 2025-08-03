@@ -27,8 +27,11 @@ Website film sederhana yang menampilkan berbagai informasi film menggunakan **AP
    cd project-film
 2. **lalu Install dependciy** 
    ```npm install
+   npm install
 3. **setelah itu membuat ENV yang disesuaikan nanti** 
    ```VITE_TMDB_API_KEY=YOUR_API_KEY
+   VITE_TMDB_API_KEY=YOUR_API_KEY
 4. **setelah itu jalankan proyeknnya** 
    ```npm run dev
+   npm run dev
 <img width="1879" height="1001" alt="Screenshot 2025-08-03 154816" src="https://github.com/user-attachments/assets/63510419-e5cb-4e25-9937-1d348db6e29b" />
